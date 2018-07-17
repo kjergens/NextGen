@@ -1,0 +1,41 @@
+.pink {
+    background-color: #ffaaaa;
+    padding: 20px 20px 20px 20px;
+    font-size: 24px;
+    color: #333333
+}
+
+.big {
+    font-size: 72px;
+}
+
+.welcome {
+    font-family: 'Courier'
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none
+}
+
+img:hover {
+    opacity: .8
+}
+
+body {
+    background-color: #ededed;
+    #color: #eeeeee;
+    padding: 50px;
+    font-family: Helvetica;
+}
+
+h1 {
+    color: #560816;
+    font-size: 50px;
+    font-family: Helvetica;
+}
+
+p {
+    font-family: Arial;
+    font-size: 24px;
+}

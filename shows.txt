@@ -1,0 +1,7 @@
+Stranger Things,sci-fi,2016
+Friends,sitcom,1994
+Ellen,talk-show,2004
+Dr. Phil,talk-show,2000
+Mindhunter,drama,2017
+Ali Wong,stand-up,2017
+Miss Austen Regrets,drama,1998
