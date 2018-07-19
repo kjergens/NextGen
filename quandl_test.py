@@ -2,8 +2,7 @@ import pandas as pd
 import numpy as np
 import quandl
 import datetime
-import matplotlib
-matplotlib.use('TkAgg')
+
 import matplotlib.pyplot as plt
 from matplotlib import style
 style.use('ggplot')
@@ -20,5 +19,5 @@ quandl.ApiConfig.api_key = 'xHp4H8JeQxudDrqRysyX'
 appl = quandl.get("WIKI/AAPL", rows=50)
 print(appl)
 
-# appl[['Adj. Close', 'Open']].plot()
-# plt.show()
+appl[['Adj. Close', 'Open']].plot()
+plt.show()

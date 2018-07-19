@@ -3,7 +3,8 @@ import time
 import nltk
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
-
+from matplotlib import style
+style.use('ggplot')
 # import urllib.request
 #
 # url = 'https://www.gutenberg.org/files/16/16-0.txt'
